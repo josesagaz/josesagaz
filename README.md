@@ -1,11 +1,10 @@
-### Hi there 👋
+### !Hola! 👋 Mi nombre es José SagaZ - aka [josesagaz](https://sagaz.info.bo/es/)
 
-<!--
-**josesagaz/josesagaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-Here are some ideas to get you started:
+![I am GitHub read me generator creator](ignoranceIsStrength.jpg)
 
-- 🔭 I’m currently working on ...
+## Soy activista de software libre, desarrollador de servicios en internet.
+
+- 🔭 Estoy trabajando en [Diplomado en Software Libre]()
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +12,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### Como conectarse conmigo:
+
+
+
+### Herramientas y lenguajes:
+
+
+
+
 

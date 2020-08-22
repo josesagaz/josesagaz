@@ -1,6 +1,6 @@
 ### !Hola! 👋 Mi nombre es José SagaZ - aka [josesagaz](https://sagaz.info.bo/es/)
 
-![I am GitHub read me generator creator](ignoranceIsStrength.jpg)
+![](ignoranceIsStrength.jpg)
 
 ## Soy activista de software libre, desarrollador de servicios en internet.
 

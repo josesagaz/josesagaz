@@ -1,6 +1,6 @@
 # Technical Notes
 
-## SSH Login Without Password
+## 🔥 SSH Login Without Password 
 Generate a key pair on the local server
 ```
 ssh-keygen
@@ -16,7 +16,7 @@ Add a private key to the authentication agent on the local server
 ssh-add
 ```
 
-## Add User to Sudoers in Debian
+## 🔥 Add User to Sudoers in Debian
 ```
 usermod -aG sudo username
 ```

@@ -16,3 +16,7 @@ Add a private key to the authentication agent on the local server
 ssh-add
 ```
 
+## Add User to Sudoers in Debian
+```
+usermod -aG sudo username
+```

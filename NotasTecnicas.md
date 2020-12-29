@@ -20,3 +20,31 @@ ssh-add
 ```
 usermod -aG sudo username
 ```
+
+## 🔥 Mount usb drive
+```
+sudo fdisk -l
+```
+Should show the USB drive like
+```Device Boot Start End Blocks Id System
+/dev/sdb1 * 32 30595071 15297520 c W95 FAT32 (LBA)```
+
+
+```
+sudo mount /dev/sdb1 /mnt
+```
+
+Format USB with vFat File System
+```
+$ sudo mkfs.vfat /dev/sdb1
+```
+
+Format NTFS FileSystem
+```
+$ sudo mkfs.ntfs /dev/sdb1
+```
+
+Format EXT4 FileSystem
+```
+$ sudo mkfs.ext4 /dev/sdb1
+```

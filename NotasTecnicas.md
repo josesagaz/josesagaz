@@ -27,7 +27,8 @@ sudo fdisk -l
 ```
 Should show the USB drive like
 ```Device Boot Start End Blocks Id System
-/dev/sdb1 * 32 30595071 15297520 c W95 FAT32 (LBA)```
+/dev/sdb1 * 32 30595071 15297520 c W95 FAT32 (LBA)
+```
 
 
 ```
